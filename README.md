@@ -33,14 +33,11 @@ Deploy Now github page
 
 ## Demo example image
 
-<!-- RAINBOW LINE TOP -->
+<!-- example image -->
 <h1 align="center">
-<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- GIF HEADER -->
-<img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/example/example.png" width="40%">
-
-<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="60%">
+<img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/example/example.png" width="60%">
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="60%">
 </h1>
 <br>
 
