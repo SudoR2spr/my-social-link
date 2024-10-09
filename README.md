@@ -28,7 +28,7 @@ Deploy Now github page
 - `You can check all lines and change all things`
 
 ## If you don't understand below is the youtube video link
-- Watch video computer mouse and follow how to do it [🎬 Youtub tutorial link 🔗](https://www.youtube.com/@WoodCraft5/videos)
+- Watch video computer mouse and follow how to do it [🎬 Youtub tutorial link 🔗](https://youtu.be/BhiRn1N6vME?si=Awa-5P5mXMZAaac5)
 <br>
 
 ## Demo example image
