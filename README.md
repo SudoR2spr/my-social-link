@@ -21,7 +21,7 @@ Deploy Now github page
 - => How do you deploy your GitHub page?
 
 ## Note
-- Any changes you make to your fork repo.
+- Any changes you make to your fork repo.[🔗 Click Here To Fork Repo](https://github.com/SudoR2spr/my-social-link/fork)
 
 - `(1)`: Upload your favourite photo Inside the `Angel-Op` folder
 - `(2)`: Change your social link 🔗 Inside the `index.html` file
