@@ -38,10 +38,10 @@ Deploy Now github page
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/example/example.png" width="70%">
+<img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/example/example.png" width="40%">
 
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
-</h1> align="center">
+</h1>
 <br>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
