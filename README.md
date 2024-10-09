@@ -31,16 +31,18 @@ Deploy Now github page
 - Watch video computer mouse and follow how to do it [🎬 Youtub tutorial link 🔗](https://www.youtube.com/@WoodCraft5/videos)
 <br>
 
-## 
+## Demo example image
 
 <!-- RAINBOW LINE TOP -->
+<h1 align="center">
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
 <img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/example/example.png" width="70%">
 
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
-
+</h1> align="center">
+<br>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
