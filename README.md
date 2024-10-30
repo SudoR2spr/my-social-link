@@ -32,7 +32,7 @@ Deploy Now github page
 - Watch video computer mouse and follow how to do it [🎬 Youtub tutorial link 🔗](https://youtu.be/BhiRn1N6vME?si=Awa-5P5mXMZAaac5)
 <br>
 
-# Demo link https://wdzone-op.github.io/my-social-link/
+- Demo link https://wdzone-op.github.io/my-social-link/
 
 <!-- example image -->
 <h1 align="center">
