@@ -16,6 +16,7 @@ MY social link page [![License: MIT][License-Badge]](LICENSE)
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SudoR2spr!;" />
 </h1>
 <br>
+
 Deploy Now github page
 
 - => How do you deploy your GitHub page?
@@ -31,7 +32,7 @@ Deploy Now github page
 - Watch video computer mouse and follow how to do it [🎬 Youtub tutorial link 🔗](https://youtu.be/BhiRn1N6vME?si=Awa-5P5mXMZAaac5)
 <br>
 
-## Demo example image
+# Demo link https://wdzone-op.github.io/my-social-link/
 
 <!-- example image -->
 <h1 align="center">
